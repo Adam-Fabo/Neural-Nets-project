@@ -5,4 +5,4 @@ Project was made at HMU, Heraklion - Crete, Greece
 
 ### Documentation
 
-Repository contains original [Assignment](https://github.com/freedie666/Neural-Networks-Project/blob/main/Assignment.pdf) and final [Documentation](https://github.com/freedie666/Neural-Networks-Project/blob/main/Documentation.pdf)
+Repository contains original [Assignment](https://github.com/Adam-Fabo/Neural-Nets-project/blob/main/Assignment.pdf) and final [Documentation](https://github.com/Adam-Fabo/Neural-Nets-project/blob/main/Documentation.pdf)
